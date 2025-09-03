@@ -13,5 +13,3 @@ The program performs the following steps:
 5. Removes the last element from `my_list`.
 6. Sorts the list in ascending order.
 7. Finds and prints the index of the value `30`.
-
-## Example Output
