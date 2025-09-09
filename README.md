@@ -3,7 +3,8 @@
 This assignment demonstrates the use of functions in Python to solve real-world style problems.
 It focuses on writing reusable functions, handling user input, and applying conditional logic.
 
-📝 Exercises
+📝 Exercise
+
 Calculate_discount(price, discount_percent)
 
 Accepts two inputs:
